@@ -6,7 +6,7 @@ Mdict是一种较为广泛使用的电子词典，主要包含mdx和mdd两种格
 
 ## 协议
 
-![](https://static.cyub.vip/images/202302/mdx-protocol.png)
+![](https://static.cyub.vip/images/202302/mdx-protocol.png?202302)
 
 ## 资料
 
